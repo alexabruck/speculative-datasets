@@ -1,6 +1,8 @@
 # speculative-datasets
 
-A collection of unusual datasets custom-made by querying [Wikidata](https://query.wikidata.org/).
+A collection of unusual **image datasets** custom-made by querying [Wikidata](https://query.wikidata.org/).
+
+### ...
 
 ### 🌳 Speculative Dataset No. 3: _Global forests on the same latitude as Leipzig_
 How it was made: Wikidata query

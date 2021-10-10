@@ -2,6 +2,12 @@
 
 A collection of unusual datasets custom-made by querying [Wikidata](https://query.wikidata.org/).
 
+### Speculative Dataset No 2: Images of mines in the world
+How it was made: Wikidata query
+
+[Python Notebook / Google Colab](https://github.com/alexabruck/speculative-datasets/blob/master/Copy_of_speculative_datasets_mines.ipynb)
+
+[Images](coming soon)
 
 
 ### Speculative Dataset No 1: Mouths of comedians

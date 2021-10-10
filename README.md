@@ -9,7 +9,7 @@ How it was made: Wikidata query
 
 [Python Notebook / Google Colab](coming soon)
 
-[Images](coming soon)
+[Images](https://drive.google.com/drive/folders/1aOwYDcWXFbBXapZkUOKrkmO4TT_j8_bg)
 
 ### ⚒️ Speculative Dataset No. 2: _Mines of the world_
 How it was made: Wikidata query

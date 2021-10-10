@@ -4,7 +4,15 @@ A collection of unusual **image datasets** custom-made by querying [Wikidata](ht
 
 ### ...
 
-### 🌳 Speculative Dataset No. 3: _Global forests on the same latitude as Leipzig_
+
+### 🌳 Speculative Dataset No. 4: _Famous trees_
+How it was made: Wikidata query
+
+[Python Notebook / Google Colab](https://github.com/alexabruck/speculative-datasets/blob/master/Famous_trees.ipynb)
+
+[Images](https://drive.google.com/drive/folders/1E83gPTNBghn0hWg84-iWXt05wRn7eYGk)
+
+### 🗺️ Speculative Dataset No. 3: _Global forests on the same latitude as Leipzig_
 How it was made: Wikidata query
 
 [Python Notebook / Google Colab](https://github.com/alexabruck/speculative-datasets/blob/master/Forests_same_latitude.ipynb)

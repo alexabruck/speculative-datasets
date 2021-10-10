@@ -7,7 +7,7 @@ A collection of unusual **image datasets** custom-made by querying [Wikidata](ht
 ### 🌳 Speculative Dataset No. 3: _Global forests on the same latitude as Leipzig_
 How it was made: Wikidata query
 
-[Python Notebook / Google Colab](coming soon)
+[Python Notebook / Google Colab](https://github.com/alexabruck/speculative-datasets/blob/master/Forests_same_latitude.ipynb)
 
 [Images](https://drive.google.com/drive/folders/1aOwYDcWXFbBXapZkUOKrkmO4TT_j8_bg)
 

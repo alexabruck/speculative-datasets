@@ -24,4 +24,4 @@ How it was made: Wikidata query + Computer Vision for cropping along the facial 
 
 [Python Notebook / Google Colab](https://github.com/alexabruck/speculative-datasets/blob/master/speculative_datasets_mouths_of_comedians.ipynb)
 
-[Images](https://drive.google.com/drive/folders/17bM4AEZM7H7F37UdD1zLkVlaFXA0UYA8)
+[Images](https://drive.google.com/drive/folders/1HQ8Z_QE2OIUX2JWjZ4zN5OWR14VEEi_s)

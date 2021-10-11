@@ -30,6 +30,6 @@ How it was made: Wikidata query
 ### 👄 Speculative Dataset No. 1: _Mouths of comedians_
 How it was made: Wikidata query + Computer Vision for cropping along the facial landmarks 
 
-[Python Notebook / Google Colab](https://github.com/alexabruck/speculative-datasets/blob/master/speculative_datasets_mouths_of_comedians.ipynb)
+[Python Notebook / Google Colab](https://github.com/alexabruck/speculative-datasets/blob/master/Mouths_of_comedians.ipynb)
 
 [Images](https://drive.google.com/drive/folders/1HQ8Z_QE2OIUX2JWjZ4zN5OWR14VEEi_s)
